@@ -1,6 +1,6 @@
 # Cafe_Menu
 Cafe Menu Page
-![menu](images/menu.png)
+![menu](Camper_Cafe/images/menu.png)
 # Description
 => This page are provide highlight unique features.
 => Contributes to the overall narrative of the restaurant showcasing the chef's expertise.
